@@ -26,5 +26,5 @@ This is a Python-based GUI application for a number guessing game, developed as 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/guessing-game-gui.git
+   git clone https://dheemach05.github.io/PRODIGY_SD_02/
    cd guessing-game-gui
